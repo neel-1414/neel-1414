@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel</h1>
 <h3 align="center">Backend Developer and Open Source Enthusiast excited to build, learn, and collaborate.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 # 💻 Tech Stack:
